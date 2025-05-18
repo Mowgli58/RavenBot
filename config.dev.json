@@ -10,9 +10,9 @@
 		"notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
 	},
 	"antiInbox": false,
-	"language": "fr",
+	"language": "en",
 	"notesLanguage": "fr",
-	"nickNameBot": "ᏣᎻᎬᏫᏁᎷᏎ ᏮᏮᏭ",
+	"nickNameBot": "Cheo",
 	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
